@@ -36,6 +36,8 @@
     "nativeLanguage": "es",
     "packageFolder": "jhipster/example",
     "jwtSecretKey": "Y2U1M2RlNmY0YTY0YzNmOWE2YTQxOTM4MTIyODA0NmY1Njk2NDczYmUyN2IzNjI1MDU0NTE5MTBlYzY2N2YxYWY0NjQ1NjFkZWViMTg4MTg5MmU5NWIyYjllMjhlOWQzYTcwMGUwMWJhY2Q4ZTZhZDk3N2FiZjViYzAxZTUyNjc=",
-    "languages": ["es"]
+    "languages": ["es"],
+    "lastLiquibaseTimestamp": 1623353547000,
+    "entities": ["Autor"]
   }
 }
